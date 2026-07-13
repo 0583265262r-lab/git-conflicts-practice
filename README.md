@@ -3,3 +3,6 @@
 ## Topics Covered
 - Fetch vs Pull
 
+"" 
+"## Progress" 
+"Making good progress!" 
